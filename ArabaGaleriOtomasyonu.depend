@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1677969215 source:c:\users\alparslan\desktop\c programlama\araba galeri otomasyonu\arabagaleriotomasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
